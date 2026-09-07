@@ -30,3 +30,8 @@ python -m http.server 8080
 
 ## 배포
 GitHub Pages, Vercel, Netlify 등 정적 호스팅에 그대로 배포할 수 있습니다.
+
+
+## V1 logo update
+- 공식 회사 로고(회사로고.png)를 `assets/logo.png`로 적용했습니다.
+- 헤더/푸터에서 원본 색상이 유지되도록 로고 표시 CSS를 수정했습니다.
